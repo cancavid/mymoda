@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "223473142766",
+    "project_id": "mymoda-31dd8",
+    "storage_bucket": "mymoda-31dd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223473142766:android:32970fbb1561a4cd755cff",
+        "android_client_info": {
+          "package_name": "com.masterstudio.mymoda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223473142766-4926i3hlnrs6sej144u1uin2v12tpsil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIJOV7JOEZXi3jvC-LWO9y86m2hJ_IBUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223473142766-4926i3hlnrs6sej144u1uin2v12tpsil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
